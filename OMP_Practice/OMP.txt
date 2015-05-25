@@ -1,0 +1,1 @@
+g++ T2OMP.cpp -fopenmp -o T2OMP
